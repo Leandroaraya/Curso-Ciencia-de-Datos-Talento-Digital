@@ -36,3 +36,44 @@ El objetivo es consolidar los aprendizajes teóricos y prácticos, y construir u
 
 ## 📂 Estructura del repositorio
 
+Curso-Ciencia-de-Datos-Talento-Digital/
+│
+├── module_01_orientation/
+│   ├── clases/
+│   └── proyecto/
+│
+├── module_02_python_fundamentals/
+│   ├── clases/
+│   └── proyecto/
+│
+├── module_03_data_preparation/
+│   ├── clases/
+│   └── proyecto/
+│
+├── module_04_eda/
+│   ├── clases/
+│   └── proyecto/
+│
+├── module_05_statistics/
+│   ├── clases/
+│   └── proyecto/
+│
+├── module_06_ml_supervised/
+│   ├── clases/
+│   └── proyecto/
+│
+├── module_07_ml_unsupervised/
+│   ├── clases/
+│   └── proyecto/
+│
+├── module_08_deep_learning/
+│   ├── clases/
+│   └── proyecto/
+│
+├── module_09_big_data/
+│   ├── clases/
+│   └── proyecto/
+│
+├── README.md
+├── .gitignore
+└── requirements.txt
