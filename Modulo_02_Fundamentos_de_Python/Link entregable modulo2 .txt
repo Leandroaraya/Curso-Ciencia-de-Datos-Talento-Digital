@@ -1,0 +1,7 @@
+https://github.com/Leandroaraya/gestor-contactos-streamlit.git -> repositorio app versión web
+
+
+https://github.com/Leandroaraya/Curso-Ciencia-de-Datos-Talento-Digital/tree/9eac9f539c8ce977a62d12dacb8ac90a11eb434f/Modulo_02_Fundamentos_de_Python/Proyecto%20del%20Modulo                 -> repositorio versión terminal / local
+
+
+https://gestor-contactos-app-9rqgqdi8o2uapz9h9pxvu6.streamlit.app/  -> app web

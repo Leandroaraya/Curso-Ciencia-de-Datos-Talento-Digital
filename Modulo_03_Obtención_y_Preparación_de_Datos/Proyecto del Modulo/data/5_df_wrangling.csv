@@ -1,0 +1,21 @@
+cliente_id,edad,monto,ciudad,segmento,iva,total_con_iva,nivel_compra
+1,37,69925.0,Santiago,Premium,13285.75,83210.75,Alto
+2,37,72969.0,Valparaíso,Regular,13864.11,86833.11,Alto
+3,32,68573.95454545454,Concepción,Regular,13029.051363636363,81603.0059090909,Alto
+4,60,88104.0,La Serena,Premium,16739.76,104843.76,Alto
+5,25,58707.0,Antofagasta,Básico,11154.33,69861.33,Alto
+6,38,90305.0,Rancagua,Regular,17157.95,107462.95,Alto
+7,56,33693.0,Talca,Básico,6401.67,40094.67,Medio
+8,37,76932.0,Chillán,Regular,14617.08,91549.08,Alto
+9,40,98016.0,Temuco,Premium,18623.04,116639.04000000001,Alto
+10,28,30658.0,Valdivia,Regular,5825.02,36483.020000000004,Medio
+11,28,89478.0,Osorno,Básico,17000.82,106478.82,Alto
+12,41,23431.0,Puerto Montt,Premium,4451.89,27882.89,Medio
+13,53,68573.95454545454,Coyhaique,Regular,13029.051363636363,81603.0059090909,Alto
+14,57,64150.0,Punta Arenas,Básico,12188.5,76338.5,Alto
+15,41,70725.0,Arica,Premium,13437.75,84162.75,Alto
+16,20,89654.0,Iquique,Regular,17034.26,106688.26,Alto
+17,39,40773.0,Calama,Básico,7746.87,48519.87,Medio
+18,19,72435.0,Copiapó,Regular,13762.65,86197.65,Alto
+19,41,61886.0,Ovalle,Premium,11758.34,73644.34,Alto
+20,61,71803.0,Los Andes,Básico,13642.57,85445.57,Alto

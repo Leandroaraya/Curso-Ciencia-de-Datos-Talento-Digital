@@ -1,0 +1,25 @@
+cliente_id,edad,monto,ciudad,segmento
+1,37,69925.0,Santiago,Premium
+2,37,72969.0,Valparaíso,Regular
+3,32,68573.95454545454,Concepción,Regular
+4,60,88104.0,La Serena,Premium
+5,25,58707.0,Antofagasta,Básico
+6,38,90305.0,Rancagua,Regular
+7,56,33693.0,Talca,Básico
+8,37,76932.0,Chillán,Regular
+9,40,98016.0,Temuco,Premium
+10,28,30658.0,Valdivia,Regular
+11,28,89478.0,Osorno,Básico
+12,41,23431.0,Puerto Montt,Premium
+13,53,68573.95454545454,Coyhaique,Regular
+14,57,64150.0,Punta Arenas,Básico
+15,41,70725.0,Arica,Premium
+16,20,89654.0,Iquique,Regular
+17,39,40773.0,Calama,Básico
+18,19,72435.0,Copiapó,Regular
+19,41,61886.0,Ovalle,Premium
+20,61,71803.0,Los Andes,Básico
+1,37,69925.0,Santiago,Premium
+18,19,72435.0,Copiapó,Regular
+16,20,89654.0,Iquique,Regular
+2,37,72969.0,Valparaíso,Regular
