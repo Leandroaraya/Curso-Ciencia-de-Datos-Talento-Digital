@@ -1,11 +1,11 @@
-Nombre;Area trabajo;Salario
-Ana;IT;no disponible
-Luis;Ventas;1000
-María;IT;1300
-Pedro;Marketing;1100
-Sofía;Ventas;1050
-Carlos;IT;1400
-Lucía;Marketing;1150
-Jorge;Ventas;980
-Valentina;IT;1500
-Diego;Marketing;1080
+;Unnamed: 0;Nombre;Area trabajo;Salario
+0;1;Ana;IT;
+1;2;Luis;Ventas;1000.0
+2;3;María;IT;1300.0
+3;4;Pedro;Marketing;1100.0
+4;5;Sofía;Ventas;1050.0
+5;6;Carlos;IT;1400.0
+6;7;Lucía;Marketing;1150.0
+7;8;Jorge;Ventas;980.0
+8;9;Valentina;IT;1500.0
+9;10;Diego;Marketing;1080.0
